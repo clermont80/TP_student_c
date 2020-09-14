@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/11 08:59:03.000.732,=C:\Users\mclermont\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2020/09/11 08:59:03.000.919,=C:\Users\mclermont\Documents\Embarcadero\Studio\Projets\File1.c</Transaction>
+    <Transaction>2020/09/11 09:22:01.000.175,C:\Users\mclermont\Documents\Embarcadero\Studio\Projets\main.c=C:\Users\mclermont\Documents\Embarcadero\Studio\Projets\File1.c</Transaction>
+    <Transaction>2020/09/11 09:22:54.000.434,=C:\Users\mclermont\Documents\Embarcadero\Studio\Projets\File1.c</Transaction>
+    <Transaction>2020/09/11 09:23:50.000.624,=C:\Users\mclermont\Documents\Embarcadero\Studio\Projets\File2.h</Transaction>
+    <Transaction>2020/09/11 09:24:00.000.626,C:\Users\mclermont\Documents\Embarcadero\Studio\Projets\student.h=C:\Users\mclermont\Documents\Embarcadero\Studio\Projets\File2.h</Transaction>
+    <Transaction>2020/09/11 09:26:13.000.819,G:\exoC_SN2\student_projet\student.h=C:\Users\mclermont\Documents\Embarcadero\Studio\Projets\student.h</Transaction>
+    <Transaction>2020/09/11 09:52:04.000.177,G:\exoC_SN2\student_projet\main.c=C:\Users\mclermont\Documents\Embarcadero\Studio\Projets\main.c</Transaction>
+    <Transaction>2020/09/11 10:11:51.000.836,G:\exoC_SN2\student_projet\student.c=C:\Users\mclermont\Documents\Embarcadero\Studio\Projets\File1.c</Transaction>
+    <Transaction>2020/09/11 10:11:55.000.721,G:\exoC_SN2\student_projet\Project1PCH1.h=C:\Users\mclermont\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2020/09/11 10:11:57.000.969,G:\exoC_SN2\student_projet\Project1.cbproj=C:\Users\mclermont\Documents\Embarcadero\Studio\Projets\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
